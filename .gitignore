@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# idea webstorm配置
+/.idea
+# history 插件，记录太多了
+/.history
 # testing
 /coverage
 
